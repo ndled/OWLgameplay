@@ -2,6 +2,8 @@
 
 This is a silly project that started with me and my brothers watching overwatch league matches and complaining about how terrible the casters are at filling time. I was looking for a new data science personal project and figured why not try and solve our problem with machine learning. In this notebook, I've written a convolutiuon neurel network to identify gameplay and skip all other parts of the match. It actually works pretty well. here is a link to me rambling about my process for the first version I put up on github
 
+https://www.ndled.us/stats/2021/08/06/CV-OWL.html
+
 Things I read while doing this
 
 1) http://zulko.github.io/blog/2014/07/04/automatic-soccer-highlights-compilations-with-python/
